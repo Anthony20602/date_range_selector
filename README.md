@@ -2,6 +2,8 @@
 
 A customizable Flutter date range picker widget with an elegant UI and flexible color options.
 
+![Range Selector Preview](assets/screenshots/range_selector.png)
+
 ## Features
 
 - 🎨 **Customizable Colors** - Pass your own primary color to match your app's theme
@@ -18,7 +20,7 @@ A customizable Flutter date range picker widget with an elegant UI and flexible 
 dependencies:
   intl: ^0.19.0  # Required dependency
   date_range_selector:
-    path: C:/Users/Administrator/StudioProjects/date_range_selector
+    path: C:/Users/.../date_range_selector
     # Or use relative path: ../date_range_selector
 ```
 
@@ -45,8 +47,6 @@ Then run:
 ```bash
 flutter pub get
 ```
-
-> 📚 **Need more details?** See [USAGE_AS_LIBRARY.md](USAGE_AS_LIBRARY.md) for complete instructions on all installation methods.
 
 ## Usage
 
