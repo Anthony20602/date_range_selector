@@ -1,6 +1,6 @@
 name: date_range_selector
 description: A customizable Flutter date range picker with elegant UI and flexible color options.
-version: 1.0.2
+version: 1.0.3
 
 homepage: https://github.com/Anthony20602/date_range_selector
 repository: https://github.com/Anthony20602/date_range_selector
