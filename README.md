@@ -2,7 +2,7 @@
 
 A customizable Flutter date range picker widget with an elegant UI and flexible color options.
 
-![Range Selector Preview](assets/screenshots/range_selector.png)
+![Range Selector Preview](https://raw.githubusercontent.com/Anthony20602/date_range_selector/main/assets/screenshots/range_selector.png)
 
 ## Features
 
