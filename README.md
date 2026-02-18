@@ -19,7 +19,7 @@ A customizable Flutter date range picker widget with an elegant UI and flexible 
 
 ```yaml
 dependencies:
-  intl: ^0.19.0  # Required dependency
+  intl: ^0.20.0  # Required dependency
   date_range_selector:
     path: C:/Users/.../date_range_selector
     # Or use relative path: ../date_range_selector
@@ -29,7 +29,7 @@ dependencies:
 
 ```yaml
 dependencies:
-  intl: ^0.19.0  # Required dependency
+  intl: ^0.20.0  # Required dependency
   date_range_selector:
     git:
       url: https://github.com/yourusername/date_range_selector.git
